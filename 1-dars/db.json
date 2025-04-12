@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "email": "rajabovazizbek627@gmail.com",
+      "phoneNumber": "qwfqE",
+      "firstname": "AESFVSEFR",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "email": "abdullohibnbotir@gmail.com",
+      "phoneNumber": "1111",
+      "firstname": "2q3wf",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "email": "",
+      "phoneNumber": "",
+      "firstname": "",
+      "password": "",
+      "id": 3
+    },
+    {
+      "email": "",
+      "phoneNumber": "",
+      "firstname": "",
+      "password": "",
+      "id": 4
+    },
+    {
+      "email": "shift1@gmail.com",
+      "phoneNumber": "1234",
+      "firstname": "1234",
+      "password": "1234",
+      "id": 5
+    }
+  ]
+}
